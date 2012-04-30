@@ -105,6 +105,11 @@
             android:title="@string/force_hw_ui"
             android:summary="@string/force_hw_ui_summary"/>
 
+        <CheckBoxPreference
+            android:key="force_tablet_ui"
+            android:title="@string/force_tablet_ui"
+            android:summary="@string/force_tablet_ui_summary"/>
+
         <ListPreference
             android:key="window_animation_scale"
             android:title="@string/window_animation_scale_title"
@@ -119,10 +124,6 @@
             android:entries="@array/transition_animation_scale_entries"
             android:entryValues="@array/transition_animation_scale_values" />
 
-        <CheckBoxPreference
-            android:key="force_tablet_ui"
-            android:title="@string/force_tablet_ui"
-            android:summary="@string/force_tablet_ui_summary"/>
 
     </PreferenceCategory>
 

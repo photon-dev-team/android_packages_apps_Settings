@@ -1330,9 +1330,7 @@
     <string name="credentials_not_erased" msgid="93461830775441220">"Imposible borrar almac credenc"</string>
     <string name="credentials_enabled" msgid="7588607413349978930">"El almacenamiento de credenciales está activado."</string>
     <string name="credentials_configure_lock_screen_hint" msgid="6048426197489058494">"Debes establecer un PIN o contraseña de la pantalla de bloqueo antes de usar el almacenamiento de credenciales."</string>
-	<string name="force_tablet_ui" msgid="6426383462520888742">"Force Tablet UI"</string>
-    <string name="force_tablet_ui_summary" msgid="8642000962902609986">"Use Tablet UI"</string>    
-	<string name="emergency_tone_title" msgid="1055954530111587114">"Tono de emergencia"</string>
+    <string name="emergency_tone_title" msgid="1055954530111587114">"Tono de emergencia"</string>
     <string name="emergency_tone_summary" msgid="722259232924572153">"Establecer el comportamiento cuando se establece una llamada de emergencia"</string>
     <string name="privacy_settings" msgid="5446972770562918934">"Copia de seguridad y restablecer"</string>
     <string name="privacy_settings_title" msgid="4856282165773594890">"Copia de seguridad y restablecer"</string>
